@@ -1,8 +1,8 @@
-### basic-project
+### first-project
 
 ### March 26, 2016
 
-A basic application that we will be using for practice
+An application to practice loops
 
 * Git
 * Java
